@@ -1,0 +1,24 @@
+[Unit]
+Description=JumpsellerSync - Tecnoglobal Provider
+
+[Service]
+WorkingDirectory=/var/www/JumpsellerSync/Tecnoglobal/
+ExecStart=/usr/bin/dotnet /var/www/JumpsellerSync/Tecnoglobal/JumpsellerSync.RestApi.Provider.Tecnoglobal.dll --apply-migrations
+Restart=always
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=10
+KillSignal=SIGINT
+SyslogIdentifier=js-tecnoglobal
+User=www-data
+Environment=ASPNETCORE_ENVIRONMENT=Staging
+Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+Environment=ConnectionStrings__Npgsql__Hangfire__Password=
+Environment=ConnectionStrings__Npgsql__Tecnoglobal__Password=
+Environment=Tecnoglobal__Auth__Username=
+Environment=Tecnoglobal__Auth__Password=
+Environment=MainAuth__Username=
+Environment=MainAuth__Password=
+Environment=STATIC_CURRENCY_FACTOR=773
+
+[Install]
+WantedBy=multi-user.target

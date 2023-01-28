@@ -1,0 +1,34 @@
+﻿@model JumpsellerSync.BusinessLogic.Core.Dtos.Main.ProductDetailsDto
+
+@{
+   ViewData["Title"] = "Desincronizar";
+}
+
+<h1>Desincronizar</h1>
+
+<h3>¿Está seguro que desea dejar de sincronizar este producto?</h3>
+<div>
+   <hr />
+   <dl class="row">
+      <dt class="col-sm-2">Nombre</dt>
+      <dd class="col-sm-10">@Html.DisplayFor(model => model.Name)</dd>
+
+      <dt class="col-sm-2">Precio</dt>
+      <dd class="col-sm-10">@Html.DisplayFor(model => model.Price)</dd>
+
+      <dt class="col-sm-2">Stock</dt>
+      <dd class="col-sm-10">@Html.DisplayFor(model => model.Stock)</dd>
+
+      <dt class="col-sm-2">SKU</dt>
+      <dd class="col-sm-10">@Html.DisplayFor(model => model.SKU)</dd>
+
+      <dt class="col-sm-2">Margen</dt>
+      <dd class="col-sm-10">@Html.DisplayFor(model => model.Margin)</dd>
+   </dl>
+
+   <form asp-action="ConfirmDelete">
+      @Html.HiddenFor(p => p.Id)
+      <input type="submit" value="Sí, estoy seguro" class="btn btn-danger" /> |
+      <a asp-action="Index">Regresar al listado</a>
+   </form>
+</div>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JumpsellerSync.Common.Util\JumpsellerSync.Common.Util.csproj" />
+    <ProjectReference Include="..\JumpsellerSync.DataAccess.Core\JumpsellerSync.DataAccess.Core.csproj" />
+  </ItemGroup>
+
+</Project>

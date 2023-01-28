@@ -1,0 +1,16 @@
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.deps.json
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.csprojAssemblyReference.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.AssemblyInfoInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.AssemblyInfo.cs
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.csproj.CoreCompileInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.csproj.CopyComplete
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Core.pdb

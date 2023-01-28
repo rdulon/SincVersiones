@@ -1,0 +1,10 @@
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\bin\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.deps.json
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\bin\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.dll
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\bin\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.pdb
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.csproj.AssemblyReference.cache
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.AssemblyInfoInputs.cache
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.AssemblyInfo.cs
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.csproj.CoreCompileInputs.cache
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.dll
+C:\Users\PabloGallar\Developer\JumpsellerSync\JumpsellerSync.BusinessLogic.Filter\obj\Debug\netcoreapp3.1\JumpsellerSync.BusinessLogic.Filter.pdb

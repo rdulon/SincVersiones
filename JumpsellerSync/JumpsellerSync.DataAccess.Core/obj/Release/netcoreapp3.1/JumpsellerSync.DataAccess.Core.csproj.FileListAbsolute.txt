@@ -1,0 +1,14 @@
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.deps.json
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.csprojAssemblyReference.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.AssemblyInfoInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.AssemblyInfo.cs
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.csproj.CoreCompileInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.csproj.CopyComplete
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/Release/netcoreapp3.1/JumpsellerSync.DataAccess.Core.pdb

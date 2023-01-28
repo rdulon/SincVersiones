@@ -1,0 +1,25 @@
+[Unit]
+Description=JumpsellerSync - Intcomex Provider
+
+[Service]
+WorkingDirectory=/var/www/JumpsellerSync/Intcomex/
+ExecStart=/usr/bin/dotnet /var/www/JumpsellerSync/Intcomex/JumpsellerSync.RestApi.Provider.Intcomex.dll --apply-migrations
+Restart=always
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=10
+KillSignal=SIGINT
+SyslogIdentifier=js-intcomex
+User=www-data
+Environment=ASPNETCORE_ENVIRONMENT=Staging
+Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+Environment=ConnectionStrings__Npgsql__Hangfire__Password=
+Environment=ConnectionStrings__Npgsql__Intcomex__Password=
+Environment=Intcomex__Auth__PublicKey=
+Environment=Intcomex__Auth__PrivateKey=
+Environment=MainAuth__Username=
+Environment=MainAuth__Password=
+Environment=CurrencyOptions__BCCh__Username=
+Environment=CurrencyOptions__BCCh__Password=
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,23 @@
+[Unit]
+Description=JumpsellerSync - Linkstore Provider
+
+[Service]
+WorkingDirectory=/var/www/JumpsellerSync/Linkstore/
+ExecStart=/usr/bin/dotnet /var/www/JumpsellerSync/Linkstore/JumpsellerSync.RestApi.Provider.Linkstore.dll --apply-migrations
+Restart=always
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=10
+KillSignal=SIGINT
+SyslogIdentifier=js-linkstore
+User=www-data
+Environment=ASPNETCORE_ENVIRONMENT=Staging
+Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+Environment=ConnectionStrings__Npgsql__Hangfire__Password=
+Environment=ConnectionStrings__Npgsql__Linkstore__Password=
+Environment=Linkstore__Access__Username=
+Environment=Linkstore__Access__Password=
+Environment=MainAuth__Username=
+Environment=MainAuth__Password=
+
+[Install]
+WantedBy=multi-user.target
