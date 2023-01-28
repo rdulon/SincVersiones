@@ -1,0 +1,43 @@
+﻿@using JumpsellerSync.BusinessLogic.Core.Dtos.Main
+@model IEnumerable<ProductDetailsDto>
+
+<input type="hidden" data-total-pages="@ViewBag.TotalPages" id="synced-total-pages" />
+<table class="table">
+   <thead>
+      <tr>
+         <th>SKU</th>
+         <th>Nombre</th>
+         <th>Precio</th>
+         <th>Stock</th>
+         <th>Margen</th>
+         <th></th>
+      </tr>
+   </thead>
+   <tbody>
+      @foreach (var item in Model)
+      {
+         <tr>
+            <td>@Html.DisplayFor(modelItem => item.SKU)</td>
+            <td>@Html.DisplayFor(modelItem => item.Name)</td>
+            <td>@item.Price.ToString("N2")</td>
+            <td>@Html.DisplayFor(modelItem => item.Stock)</td>
+            <td>
+               @Html.DisplayFor(modelItem => item.Margin)
+            </td>
+            <td>
+               <div class="d-flex justify-content-start align-items-center">
+                  <a href="@Url.Action("Edit",new { id =  item.Id})" class="btn btn-sm btn-success">
+                     <i class="fa fa-edit"></i>
+                     Editar
+                  </a>
+                  &nbsp;
+                  <a href="@Url.Action("Delete",new { id =  item.Id})" class="btn btn-sm btn-outline-danger">
+                     <i class="fa fa-trash"></i>
+                     Eliminar
+                  </a>
+               </div>
+            </td>
+         </tr>
+      }
+   </tbody>
+</table>

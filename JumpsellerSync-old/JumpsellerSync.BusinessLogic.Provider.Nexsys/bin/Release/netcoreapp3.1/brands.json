@@ -1,0 +1,138 @@
+[
+    {
+        "fabricante": "Poly",
+        "nexsysId": "Poly"
+    },
+    {
+        "fabricante": "3nStar",
+        "nexsysId": "3nStar"
+    },
+    {
+        "fabricante": "Adata",
+        "nexsysId": "ADATA"
+    },
+    {
+        "fabricante": "AOC",
+        "nexsysId": "AOC"
+    },
+    {
+        "fabricante": "APC",
+        "nexsysId": "APC"
+    },
+    {
+        "fabricante": "Arcserve",
+        "nexsysId": "ARCServe"
+    },
+    {
+        "fabricante": "Audiocodes",
+        "nexsysId": "Audiocodes"
+    },
+    {
+        "fabricante": "Corel",
+        "nexsysId": "Corel"
+    },
+    {
+        "fabricante": "Datalogic",
+        "nexsysId": "Datalogic"
+    },
+    {
+        "fabricante": "Epson Escaner",
+        "nexsysId": "Epson-Escaner"
+    },
+    {
+        "fabricante": "Epson Gran Formato",
+        "nexsysId": "Epson-GranFormato"
+    },
+    {
+        "fabricante": "Epson Impresión",
+        "nexsysId": "Epson-Impresion"
+    },
+    {
+        "fabricante": "Epson Suministros",
+        "nexsysId": "Epson-Suministros"
+    },
+    {
+        "fabricante": "Epson Proyectores",
+        "nexsysId": "Epson-Proyectores"
+    },
+    {
+        "fabricante": "HP Impresión Consumo",
+        "nexsysId": "HP-Impresion Consumo"
+    },
+    {
+        "fabricante": "HP Impresión Corporativo",
+        "nexsysId": "HP-Impresion Corporativo"
+    },
+    {
+        "fabricante": "HP Pcs Empresariales",
+        "nexsysId": "HP-PCs Empresariales"
+    },
+    {
+        "fabricante": "HP Portatiles Empresariales",
+        "nexsysId": "HP-Portatiles Empresariales"
+    },
+    {
+        "fabricante": "HP POS",
+        "nexsysId": "HP-Pos"
+    },
+    {
+        "fabricante": "HP Workstation",
+        "nexsysId": "HP-Workstation"
+    },
+    {
+        "fabricante": "HP Iquote",
+        "nexsysId": "HPiQuote"
+    },
+    {
+        "fabricante": "Jabra",
+        "nexsysId": "Jabra"
+    },
+    {
+        "fabricante": "Kaspersky Consumo",
+        "nexsysId": "Kaspersky Consumo"
+    },
+    {
+        "fabricante": "Kaspersky Corporativo",
+        "nexsysId": "Kaspersky Corporativo"
+    },
+    {
+        "fabricante": "Lenovo Corporativo",
+        "nexsysId": "Lenovo-Corporativo"
+    },
+    {
+        "fabricante": "Lenovo Servidores",
+        "nexsysId": "Lenovo-Servidores"
+    },
+    {
+        "fabricante": "Lenovo Workstation",
+        "nexsysId": "Lenovo-Workstation"
+    },
+    {
+        "fabricante": "LG",
+        "nexsysId": "LG"
+    },
+    {
+        "fabricante": "McAfee",
+        "nexsysId": "McAfee"
+    },
+    {
+        "fabricante": "OKI",
+        "nexsysId": "OKI"
+    },
+    {
+        "fabricante": "Red Hat",
+        "nexsysId": "Red Hat"
+    },
+    {
+        "fabricante": "Sophos",
+        "nexsysId": "Sophos"
+    },
+    {
+        "fabricante": "Wacom",
+        "nexsysId": "Wacom"
+    },
+    {
+        "fabricante": "Xerox",
+        "nexsysId": "Xerox"
+    }
+]

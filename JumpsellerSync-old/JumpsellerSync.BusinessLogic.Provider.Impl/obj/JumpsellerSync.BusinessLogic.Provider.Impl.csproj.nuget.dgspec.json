@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Provider.Impl/JumpsellerSync.BusinessLogic.Provider.Impl.csproj": {}
+  },
+  "projects": {
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/JumpsellerSync.BusinessLogic.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/JumpsellerSync.BusinessLogic.Core.csproj",
+        "projectName": "JumpsellerSync.BusinessLogic.Core",
+        "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/JumpsellerSync.BusinessLogic.Core.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj"
+              },
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/JumpsellerSync.DataAccess.Core.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/JumpsellerSync.DataAccess.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Provider.Impl/JumpsellerSync.BusinessLogic.Provider.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Provider.Impl/JumpsellerSync.BusinessLogic.Provider.Impl.csproj",
+        "projectName": "JumpsellerSync.BusinessLogic.Provider.Impl",
+        "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Provider.Impl/JumpsellerSync.BusinessLogic.Provider.Impl.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Provider.Impl/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/JumpsellerSync.BusinessLogic.Core.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Core/JumpsellerSync.BusinessLogic.Core.csproj"
+              },
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.14, )"
+            },
+            "IdentityModel.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj",
+        "projectName": "JumpsellerSync.Common.Util",
+        "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "HangFire.Autofac": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.14, )"
+            },
+            "Hangfire.PostgreSql": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/JumpsellerSync.DataAccess.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/JumpsellerSync.DataAccess.Core.csproj",
+        "projectName": "JumpsellerSync.DataAccess.Core",
+        "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/JumpsellerSync.DataAccess.Core.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.DataAccess.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/JumpsellerSync.Common.Util.csproj"
+              },
+              "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/JumpsellerSync.Domain.Impl.csproj": {
+                "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/JumpsellerSync.Domain.Impl.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/JumpsellerSync.Domain.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/JumpsellerSync.Domain.Impl.csproj",
+        "projectName": "JumpsellerSync.Domain.Impl",
+        "projectPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/JumpsellerSync.Domain.Impl.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

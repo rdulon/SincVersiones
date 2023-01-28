@@ -1,0 +1,47 @@
+﻿@using JumpsellerSync.BusinessLogic.Core.Dtos.Main
+@model IEnumerable<LocalProductDetailsDto>
+
+<input type="hidden" data-total-pages="@ViewBag.TotalPages" id="total-pages" />
+<table id="local-products-table" class="table">
+   <thead>
+      <tr>
+         <th>SKU</th>
+         <th>Nombre</th>
+         <th>Precio</th>
+         <th>Stock</th>
+         <th></th>
+      </tr>
+   </thead>
+
+   <tbody>
+      @foreach (var product in Model)
+      {
+         <tr data-local-product-id="@product.Id">
+            <td>
+               @Html.DisplayFor(modelItem => product.Sku)
+            </td>
+            <td>
+               @Html.DisplayFor(modelItem => product.Name)
+            </td>
+            <td>
+               <input type="number" name="Price_@product.Id"
+                      data-price="@Html.Raw(Json.Serialize(Math.Round(product.Price, 2)))"
+                      class="form-control" />
+            </td>
+            <td>
+               <input type="number" name="Stock_@product.Id"
+                      value="@product.Stock"
+                      class="form-control" />
+            </td>
+            <td>
+               <div class="d-flex justify-content-start align-items-center">
+                  <a href="@Url.Action("Delete",new { id =  product.Id})" class="btn btn-sm btn-outline-danger">
+                     <i class="fa fa-trash"></i>
+                     Eliminar
+                  </a>
+               </div>
+            </td>
+         </tr>
+      }
+   </tbody>
+</table>

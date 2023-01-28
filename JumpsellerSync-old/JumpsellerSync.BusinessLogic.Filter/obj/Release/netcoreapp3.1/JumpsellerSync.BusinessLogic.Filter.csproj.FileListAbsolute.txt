@@ -1,0 +1,8 @@
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.deps.json
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/bin/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.pdb
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.AssemblyInfoInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.AssemblyInfo.cs
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.csproj.CoreCompileInputs.cache
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.dll
+/home/ubuntu/JumpsellerSync/JumpsellerSync.BusinessLogic.Filter/obj/Release/netcoreapp3.1/JumpsellerSync.BusinessLogic.Filter.pdb

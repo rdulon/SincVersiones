@@ -1,0 +1,7 @@
+﻿@using JumpsellerSync.BusinessLogic.Core.Dtos.Provider
+@model IEnumerable<ProviderBrandDetailsDto>
+
+@foreach (var brand in Model)
+{
+   <option value="@brand.Id">@brand.Description</option>
+}
