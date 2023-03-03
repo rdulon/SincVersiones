@@ -1,9 +1,0 @@
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.deps.json
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.dll
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/bin/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.pdb
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.csprojAssemblyReference.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.AssemblyInfoInputs.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.AssemblyInfo.cs
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.csproj.CoreCompileInputs.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.dll
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Domain.Impl/obj/Release/netcoreapp3.1/JumpsellerSync.Domain.Impl.pdb

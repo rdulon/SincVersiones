@@ -1,9 +1,0 @@
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.deps.json
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.dll
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/bin/Release/netcoreapp3.1/JumpsellerSync.Common.Util.pdb
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.csprojAssemblyReference.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.AssemblyInfoInputs.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.AssemblyInfo.cs
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.csproj.CoreCompileInputs.cache
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.dll
-/home/ubuntu/JumpsellerSync/JumpsellerSync.Common.Util/obj/Release/netcoreapp3.1/JumpsellerSync.Common.Util.pdb
